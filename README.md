@@ -28,3 +28,6 @@ python3 test_eval.py #testing evaluation
 >>2 #inputing one sentence for classification
 ```
 
+## 参考
+https://github.com/catqaq/TextClassification
+
