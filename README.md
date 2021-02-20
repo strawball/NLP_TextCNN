@@ -19,6 +19,6 @@ python3 test_eval.py #testing evaluation
 >>2 #inputing one sentence for classification
 ```
 
-## Data
+## Introduction
+This project achieves Text Classification using TextCNN.
 
-语料库太大，无法直接上传
